@@ -1,0 +1,112 @@
+[
+  {
+    "code": "US",
+    "name": "United States",
+    "continent": "North America"
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "continent": "Europe"
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "continent": "Europe"
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "continent": "Europe"
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "continent": "Europe"
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "continent": "Europe"
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "continent": "Europe"
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "continent": "Europe"
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "continent": "Asia"
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "continent": "Asia"
+  },
+  {
+    "code": "KR",
+    "name": "South Korea",
+    "continent": "Asia"
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "continent": "Asia"
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "continent": "Asia"
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "continent": "Asia"
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "continent": "Asia"
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "continent": "Oceania"
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "continent": "North America"
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "continent": "North America"
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "continent": "South America"
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "continent": "Africa"
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "continent": "Asia"
+  },
+  {
+    "code": "RU",
+    "name": "Russia",
+    "continent": "Europe"
+  }
+]
