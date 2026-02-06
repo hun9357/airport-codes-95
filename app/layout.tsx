@@ -14,6 +14,9 @@ export const metadata: Metadata = {
     description: 'Comprehensive database of airport codes for 200+ major airports.',
     type: 'website',
   },
+  verification: {
+    google: 'KLUWmaJTvSkVldncIo2cPl6KQtr610FUWuZhywdYN5Y',
+  },
 };
 
 export default function RootLayout({
